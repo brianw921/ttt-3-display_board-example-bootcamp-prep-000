@@ -4,7 +4,7 @@ def display_board
   print output
   print "-----------"
   print output
-  puts "-----------"
+  print "-----------"
   print output
 end
 
