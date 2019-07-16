@@ -2,10 +2,10 @@
 def display_board
   output = ["   ", "   |   ", "   ", "   |   ", "   "]
   print output
-  # puts "-----------"
-  # print output
-  # puts "-----------"
-  # print output
+  puts "-----------"
+  print output
+  puts "-----------"
+  print output
 end
 
 
