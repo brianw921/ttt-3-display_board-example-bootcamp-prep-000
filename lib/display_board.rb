@@ -2,7 +2,7 @@
 def display_board
   output = "   |   |  "
   print output
-  puts "-----------"
+  print "-----------"
   print output
   puts "-----------"
   print output
